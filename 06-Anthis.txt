@@ -1,0 +1,2 @@
+words = "Hello World"
+print(len(words))
