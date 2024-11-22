@@ -1,0 +1,7 @@
+words = ["Ski", "i"]
+number = 1
+list1 = []
+for x in words:
+    if len(x) > number:
+        list1.append(x)
+print(list1)
