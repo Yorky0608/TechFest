@@ -1,0 +1,19 @@
+dictionary_l = []
+
+while True:
+    word = input()
+    if word:
+        dictionary_l.append(word)
+    else:
+        break
+
+def neighbors(word):
+    pos = dictionary_l.index(word)
+    if pos+1 > len(dictionary_l):
+        pass
+    elif pos == 0:
+        return dictionary_l[pos+1]
+    else:
+        return f"{dictionary_l[pos-1]} \n{dictionary_l[pos+1]}"
+
+print(neighbors(input('Word from dict  ')))
