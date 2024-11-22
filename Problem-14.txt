@@ -1,0 +1,49 @@
+14 - Find Words
+
+Each letter in a word represents a value.  Find the words in the 
+input dictionary that equal a certain value.
+
+Here are the letter values:
+a - i represents 1 - 9
+j - s represents 10 - 90 
+t - z represents 100 - 700
+
+The value for "cat" is 104, found by adding 3 + 1 + 100.
+The value for "yowl" is 1100, found by adding 600 + 6 + 400 + 3.
+
+
+Input:
+Input-14.txt is a text file with one number per line. 
+wordlist.txt is a text file containing the dictionary.
+
+Output:
+In alphabetical order, write each word in the dictionary that equals the
+value in the input file.
+
+Write your answers in a file named 14-TeamName.txt, one word per line.
+
+
+Example:
+1
+19
+
+Answer:
+a
+ahead
+aide
+bache
+badge
+bajada
+beach
+begad
+bice
+biga
+cig
+egg
+faced
+faff
+fage
+fid
+gabi
+idea
+jed

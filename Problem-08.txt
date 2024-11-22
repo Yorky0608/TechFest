@@ -1,0 +1,28 @@
+08 - Magic Squares
+
+A magic square is a square grid of integers.  Every row, column and diagonal will add up to the same number.
+
+Input consists of the numbers of one row on one line, separated by commas. The remaining rows follow on the next lines.
+
+There will be more than one square in the input data and they vary in size.
+
+Evaluate each square and determine if it is a magic square.  If it is a magic square, output a 'Y'.  If not, output a line of text with 'N'.  The judging software is case sensitive.
+
+Write your answers in a file named 08-TeamName.txt, one answer per line.
+Name your source code 08-TeamName.ext (with ext set for your language) and turn it in.
+
+Example:
+6,1,8
+7,5,3
+2,9,4
+6,1,8
+7,3,5
+2,9,4
+7,5,3
+2,9,4
+6,1,8
+
+Answers:
+Y
+N
+N

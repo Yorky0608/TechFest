@@ -1,0 +1,34 @@
+06 - Title Case
+
+You are given a list of sentences. Each sentence may have a mix of 
+lowercase and uppercase letters. Convert each sentence to title case.
+
+Title case conversion means that the first letter of each word in a 
+sentence should be capitalized, while the remaining letters should be 
+in lowercase. However, there are exceptions: the words 
+"and" "or" "but" "the" "a" "an" and "at" 
+should remain in lowercase unless they appear 
+at the beginning of a sentence.
+
+Write a program to perform this title case conversion.
+
+Input:
+The input file, "Input-06.txt" will contain one or more sentences. Each 
+sentence is a string of words separated by spaces. Sentences may contain 
+letters, numbers, and punctuation. The length of each sentence will not 
+exceed 1000 characters.
+
+Output:
+Write your answers in a file named 06-TeamName.txt, one sentence per line.
+
+
+Example:
+the quick brown fox
+Jumped over the lazy dog.
+this IS a TesT
+
+
+Answer:
+The Quick Brown Fox
+Jumped Over the Lazy Dog.
+This Is a Test

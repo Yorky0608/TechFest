@@ -1,0 +1,44 @@
+17 - Top Ten
+
+Print the lowest 25 valued words and highest 25 valued words.
+
+If a word value ties for the 25th highest or lowest spot, include all the
+tied with it.
+
+Word Values:
+As with previous problems, each letter in a word represents a value.  
+Use the values below to calculate the total for each word in a dictionary.
+
+Here are the letter values. Treat uppercase and lowercase the same.
+a - i represents 1 - 9
+j - s represents 10 - 90 
+t - z represents 100 - 700
+
+
+Input:
+"wordlist.txt" is a text file with one word per line.  
+
+
+Output:
+Print the lowest 25 valued words and highest 25 valued words and their 
+values, in word value order from low to high. 
+Print the word first, a space, then the word value.
+
+Write your answers in a file named 17-TeamName.txt, one word per line.
+
+
+Example Input
+<none>
+
+Answer (for top 4 and bottom 4):
+a 1
+aa 2
+ba 3
+aba 4
+baa 4
+acetylphenylhydrazine 3469
+benzalphenylhydrazone 3469
+hydroxybutyricacid 3483
+cryptozygosity 3699
+dacryocystosyringotomy 3937
+

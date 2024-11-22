@@ -1,0 +1,48 @@
+18 - Word Neighbors
+
+Find the words before and after a given word in the dictionary.
+
+Input:
+"Input-18.txt" is a text file with one word per line.  
+"wordlist.txt" is a dictionary with one word per line.
+
+Output:
+Print the words that come before and after the input word in alphabetical
+order from the dictionary.
+
+Print the previous word, followed by a space, followed by the next word.
+
+If you find the first word in alphabetical order, print "<<<" (without the
+quotes), followed by a space, followed by the second word in alphabetical
+order.
+
+If you find the last word in alphabetical order, print the second to last 
+word in alphabetical order, followed by a space, followed by ">>>" (without 
+the quotes).
+
+Write your answers in a file named 18-TeamName.txt, one word per line.
+
+
+Example Input:
+a
+aa
+aal
+aalii
+aam
+zymotize
+zymotoxic
+zymurgy
+zythem
+zythum
+
+Answer:
+<<< aa
+a aal
+aa aalii
+aal aam
+aalii aardvark
+zymotically zymotoxic
+zymotize zymurgy
+zymotoxic zythem
+zymurgy zythum
+zythem >>>

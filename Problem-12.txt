@@ -1,0 +1,24 @@
+12 - lowercase
+
+Rewrite words so they have all lower-case letters, except words that begin with the letter Q.
+
+Problem
+Read in a word and convert it to all lower-case letters.  Do not convert words that begin with the letter Q.
+
+Input
+There will be multiple lines with a single word on each line.
+
+Output
+For each line of input, print on the transformed word on a separate line.  
+
+Sample Input
+First
+subseQuent
+neXT
+QuiT
+
+Sample Output
+first
+subsequent
+next
+QuiT

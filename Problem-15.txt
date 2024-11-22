@@ -1,0 +1,43 @@
+15 - Word Value
+
+Each letter in a word represents a value.  Calculate the total for each word.
+
+Here are the letter values:
+a - i represents 1 - 9
+j - s represents 10 - 90 
+t - z represents 100 - 700
+
+The value for "cat" is 104, found by adding 3 + 1 + 100.
+The value for "yowl" is 1100, found by adding 600 + 6 + 400 + 3.
+
+
+Input:
+Input-15.txt is a text file with one word per line.  Treat uppercase and 
+lowercase the same.
+
+
+Output:
+Write the original word, a space, and the word value.
+
+Write your answers in a file named 15-TeamName.txt, one word per line.
+
+
+Example:
+a
+cat
+in
+the
+hat
+cavalierishness
+yowl
+gematria
+
+Answer:
+a 1
+cat 204
+in 59
+the 213
+hat 209
+cavalierishness 911
+yowl 1290
+gematria 353

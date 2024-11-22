@@ -1,0 +1,42 @@
+07 - Word Reversal
+
+Given a sentence, reverse the order of the words.
+
+Problem Description:
+
+You are given a text file containing a list of sentences, one per line. 
+Your task is to reverse the order of words in each sentence.
+Any punctuation in or next to a word should stay with the word, except 
+punctuation at the end of sentence. See the next rule below.
+Any punctuation at the end of a sentence must be at the end of the reversed sentence.
+Write a program that takes the input text file and produces an output
+text file with the reversed sentences.
+
+
+Input:
+"Input-07.txt" is a text file with one sentence per line.
+
+The input file will contain multiple lines.
+Each line represents a sentence, and sentences are separated by newline characters.
+Sentences may in a punctuation mark, like a period, question mark, or exclamation point.
+
+Output:
+
+Print the reversed sentence to the file "Output-07.txt".
+
+
+Example Input
+
+Hello world. 
+The sky is blue.
+All sentences should end in periods
+Exercise boosts energy levels?
+Birds chirp in the morning.
+
+Answer
+
+world Hello. 
+blue is sky The.
+periods in end should sentences All
+levels energy boosts Exercise?
+morning the in chirp Birds.

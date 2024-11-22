@@ -1,0 +1,7 @@
+This is a Google presentation that show examples in various languages of
+how to read and write a text file.
+
+Since you need to create a text file to submit an answer, this is crucial.
+
+https://docs.google.com/presentation/d/1xQmLW6zlIdsHSycVnH1LpDM7yUObvXCb5mnglVDg14Q/edit?usp=sharing
+

@@ -1,0 +1,43 @@
+16 - Word Stats
+
+Print the words that have word values greater than the average.
+
+Calculate the word value for each word listed, then print the words with
+a value greater than the average.
+
+Word Values:
+As with previous problems, each letter in a word represents a value.  
+Use the values below to calculate the total for each word in a dictionary.
+
+Here are the letter values. Treat uppercase and lowercase the same.
+a - i represents 1 - 9
+j - s represents 10 - 90 
+t - z represents 100 - 700
+
+
+Input:
+"wordlist.txt" is a text file with one word per line.  
+
+
+Output:
+Write words with word values greater than the average, in alphabetical order.
+
+Write your answers in a file named 16-TeamName.txt, one word per line.
+
+
+Example dictionary:
+cat
+in
+the
+hat
+cavalierishness
+yowl
+gematria
+new
+
+
+Answer:
+cavalierishness
+new
+yowl
+

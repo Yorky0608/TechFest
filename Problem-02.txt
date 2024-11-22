@@ -1,0 +1,32 @@
+02 - Capital List
+
+Identify the capital letters in a string.
+
+For capital list in a string, output the position in the string.
+
+Input:
+Input-02.txt is a text file with letters, spaces and punctuation on 
+each line. 
+
+
+Output:
+In lowest to highest, write the position of each capital letter in the 
+list, separated by commas. 
+If there are no capital letters in the list, output "No Capitals"
+
+Write your answers in a file named 02-TeamName.txt, one word per line.
+
+
+Example:
+A
+ABC
+AbC
+abc
+Let's take a trip to Lake Erie!
+
+Answer:
+1
+1,2,3
+1,3
+No Capitals
+1,22,27

@@ -1,0 +1,34 @@
+11 - Translate integers to English.
+
+Problem
+Given 1 integer per line, print the integer in English.
+
+Input
+There will be multiple lines with one integer between 0 and 9.
+
+Output
+For each line of input, print on separate lines the name of the integer in English with lower case letters.  
+
+Sample Input
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+Sample Output
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+zero

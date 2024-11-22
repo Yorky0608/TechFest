@@ -1,0 +1,28 @@
+04 - Middles
+
+Find the middle letters in a list of words.
+
+Input:
+Input-04.txt is a text file with one or more words per line. 
+
+Output:
+Print the middle letter in each word. 
+If a word does not have a middle letter, print nothing.
+If a subsequent word has a middle letter, print a space and the letter.
+If there is no middle letters anywhere in the line, output "None".
+
+Write your answers in a file named 04-TeamName.txt, one word per line.
+
+
+Example:
+AbC
+abcd ABC
+AbC aBc
+abcd ABCD
+
+
+Answer:
+b
+B
+b B
+None

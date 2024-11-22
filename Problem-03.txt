@@ -1,0 +1,27 @@
+03 - Find the middle
+
+Find the middle letter in a word, if it exists.
+
+Input:
+Input-03.txt is a text file with one word per line. 
+
+Output:
+Print the middle letter in the word.
+If there is no middle letters in the word, output "None".
+
+Write your answers in a file named 03-TeamName.txt, one word per line.
+
+
+Example:
+A
+AB
+AbC
+abcd
+aBCde
+
+Answer:
+A
+None
+b
+None
+C

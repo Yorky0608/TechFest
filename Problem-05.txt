@@ -1,0 +1,36 @@
+05 - Thousands separator
+
+Given a number, format it with commas.
+
+Input:
+Input-05.txt is a text file with one number per line. 
+
+Output:
+Print the number with thousand separators.
+Insert a comma to group the digits into sets of three.
+
+
+Write your answers in a file named 05-TeamName.txt, one word per line.
+
+
+Example:
+1
+22
+333
+4444
+55555
+666666
+7777777
+88888888
+999999999
+
+Answer:
+1
+22
+333
+4,444
+55,555
+666,666
+7,777,777
+88,888,888
+999,999,999

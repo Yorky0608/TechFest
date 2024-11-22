@@ -1,0 +1,26 @@
+10 - No Space
+
+Find the length of a phrase, less the spaces.
+
+Problem
+Read a string, ignore the spaces, and print out how long it is.
+
+Input
+There will be multiple lines with one or more words, numbers and spaces.
+
+Output
+For each line of input, print on separate lines the length of words and numbers but do not count the spaces.  
+
+Sample Input
+one two
+three four
+five six
+seven 7 eight 8
+nine zero
+
+Sample Output
+6
+9
+7
+12
+8

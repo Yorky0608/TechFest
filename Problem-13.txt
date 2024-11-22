@@ -1,0 +1,22 @@
+13 - Test passwords for strength.
+
+Problem
+Read in a password and judge if it is good enough.  A good password will have at least one lowercase letter, uppercase letter, and number.  A good password will also be at least 8 characters long.
+
+Input
+There will be multiple lines with a single password on each line.
+
+Output
+For each line of input, print "Good" or "Bad" on a separate line, depending on the strength of the password.
+
+Sample Input
+First1
+subseQuent
+next1
+CorrectHorse1
+
+Sample Output
+Bad
+Bad
+Bad
+Good

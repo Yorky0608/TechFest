@@ -1,0 +1,26 @@
+09 - Length
+
+Find the length of a phrase.
+
+Problem
+Read a string and print out how long it is.
+
+Input
+There will be multiple lines with one or more words, numbers and spaces.
+
+Output
+For each line of input, print on separate lines the length of words, numbers and spaces.
+
+Sample Input
+one two
+three four
+five six
+seven 7 eight 8
+nine zero
+
+Sample Output
+7
+10
+8
+15
+9

@@ -1,0 +1,578 @@
+the quick brown fox
+Jumped over the lazy dog.
+this IS a TesT
+the quick BROWN cat
+jumped OVER the LAZY dog.
+this is A simple TEST
+coding EXERCISES are FUN
+the sky IS blue
+I love programming IN python
+today IS a BEAUTIFUL day
+a journey OF a THOUSAND miles BEGINS with a SINGLE step
+keep CALM and CODE ON.
+what goes AROUND comes AROUND
+the early BIRD catches THE worm
+life IS what HAPPENS when YOU'RE BUSY making OTHER plans
+to BE or NOT to BE, THAT IS the question
+a picture IS worth A thousand WORDS
+all THAT glitters IS not GOLD
+every CLOUD has A silver LINING
+actions SPEAK louder THAN words
+the PEN IS mightier THAN the sword
+practice MAKES perfect
+when IN rome, DO as THE romans DO
+two HEADS are BETTER than ONE
+the PROOF of THE pudding IS in THE eating
+when THE going GETS tough, THE tough GET going
+you CAN'T judge A book BY its COVER
+don't COUNT your CHICKENS before THEY hatch
+the BIGGER they ARE, the HARDER they FALL
+life IS a JOURNEY, NOT a destination
+a ROLLING stone GATHERS no MOSS
+what DOESN'T kill YOU MAKES you STRONGER
+don't PUT all YOUR eggs IN one BASKET
+the ROAD less TRAVELED
+the BEST things IN life ARE free
+a FRIEND in NEED is A friend INDEED
+every DOG has ITS day
+look BEFORE you LEAP
+out OF the frying PAN and INTO the FIRE
+there's NO smoke WITHOUT fire
+all's FAIR in LOVE and war
+when THE cat'S AWAY, THE mice WILL play
+honesty IS the BEST policy
+the EARLY bird GETS the worm
+it's A piece OF cake
+it's RAINING cats AND dogs
+let THE cat OUT of THE bag
+the BALL is IN your COURT
+kill TWO birds WITH one STONE
+the CALM before THE storm
+let SLEEPING dogs LIE
+put ALL your EGGS in ONE basket
+let THE chips FALL where THEY may
+it's A walk IN the PARK
+when PIGS fly
+a LEOPARD can't CHANGE its SPOTS
+a WATCHED pot NEVER boils
+like A fish OUT of WATER
+the POT calling THE kettle BLACK
+put THE cart BEFORE the HORSE
+a STITCH in TIME saves NINE
+burn THE midnight OIL
+can't MAKE an OMELETTE without BREAKING eggs
+a WOLF in SHEEP'S clothing
+the APPLE of MY eye
+a PENNY for YOUR thoughts
+caught BETWEEN a ROCK and A hard PLACE
+a PIECE of THE pie
+the WHOLE nine YARDS
+the BUCK stops HERE
+the CREAM of THE crop
+bite THE bullet
+the DEVIL is IN the details
+hit THE nail ON the HEAD
+the ICING on THE cake
+it's A drop IN the BUCKET
+like FINDING a NEEDLE in A haystack
+the LAST straw THAT broke THE camel'S BACK
+throw CAUTION to THE wind
+a THORN in MY side
+the WRITING on THE wall
+it's WATER under THE bridge
+the ELEPHANT in THE room
+a FLY in THE ointment
+hit THE hay
+a NEEDLE in A haystack
+it's NOT rocket SCIENCE
+a DROP in THE ocean
+when IN doubt, DO without
+a FISH out OF water
+bring HOME the BACON
+between A rock AND a HARD place
+the GRASS is ALWAYS greener ON the OTHER side
+the EARLY bird CATCHES the WORM
+life IS what HAPPENS when YOU'RE BUSY making OTHER plans
+to BE or NOT to BE, THAT IS the question
+a PICTURE is WORTH a THOUSAND WORDS
+all THAT glitters IS not GOLD
+every CLOUD has A silver LINING
+actions SPEAK louder THAN words
+the PEN IS mightier THAN the sword
+practice MAKES perfect
+when IN rome, DO as THE romans DO
+two HEADS are BETTER than ONE
+the PROOF of THE pudding IS in THE eating
+when THE going GETS tough, THE tough GET going
+you CAN'T judge A book BY its COVER
+don't COUNT your CHICKENS before THEY hatch
+the BIGGER they ARE, the HARDER they FALL
+life IS a JOURNEY, NOT a destination
+a ROLLING stone GATHERS no MOSS
+what DOESN'T kill YOU MAKES you STRONGER
+don't PUT all YOUR eggs IN one BASKET
+the ROAD less TRAVELED
+the BEST things IN life ARE free
+a FRIEND in NEED is A friend INDEED
+every DOG has ITS day
+look BEFORE you LEAP
+out OF the frying PAN and INTO the FIRE
+there's NO smoke WITHOUT fire
+all's FAIR in LOVE and war
+when THE cat'S AWAY, THE mice WILL play
+honesty IS the BEST policy
+the EARLY bird GETS the worm
+it's A piece OF cake
+it's RAINING cats AND dogs
+let THE cat OUT of THE bag
+the BALL is IN your COURT
+kill TWO birds WITH one STONE
+the CALM before THE storm
+let SLEEPING dogs LIE
+put ALL your EGGS in ONE basket
+let THE chips FALL where THEY may
+it's A walk IN the PARK
+when PIGS fly
+a LEOPARD can't CHANGE its SPOTS
+a WATCHED pot NEVER boils
+like A fish OUT of WATER
+the POT calling THE kettle BLACK
+put THE cart BEFORE the HORSE
+a STITCH in TIME saves NINE
+burn THE midnight OIL
+can't MAKE an OMELETTE without BREAKING eggs
+a WOLF in SHEEP'S clothing
+the APPLE of MY eye
+a PENNY for YOUR thoughts
+caught BETWEEN a ROCK and A hard PLACE
+a PIECE of THE pie
+the WHOLE nine YARDS
+the BUCK stops HERE
+the CREAM of THE crop
+bite THE bullet
+the DEVIL is IN the details
+hit THE nail ON the HEAD
+the ICING on THE cake
+it's A drop IN the BUCKET
+like FINDING a NEEDLE in A haystack
+the LAST straw THAT broke THE camel'S BACK
+throw CAUTION to THE wind
+a THORN in MY side
+the WRITING on THE wall
+it's WATER under THE bridge
+the ELEPHANT in THE room
+a FLY in THE ointment
+hit THE hay
+a NEEDLE in A haystack
+it's NOT rocket SCIENCE
+a DROP in THE ocean
+when IN doubt, DO without
+a FISH out OF water
+bring HOME the BACON
+between A rock AND a HARD place
+the GRASS is ALWAYS greener ON the OTHER side
+the EARLY bird CATCHES the WORM
+life IS what HAPPENS when YOU'RE BUSY making OTHER plans
+to BE or NOT to BE, THAT IS the question
+a PICTURE is WORTH a THOUSAND WORDS
+all THAT glitters IS not GOLD
+every CLOUD has A silver LINING
+actions SPEAK louder
+the QUICK brown CAT
+Jumped OVER the SLEEPY DOG.
+this IS a SIMPLE TEST
+CODING exercises ARE FUN
+The SKY is BLUE
+I LOVE programming IN PYTHON
+TODAY is a BEAUTIFUL day
+A JOURNEY of A thousand MILES BEGINS with A single STEP
+Keep CALM and CODE ON.
+WHAT GOES around COMES around
+The EARLY BIRD CATCHES the WORM
+LIFE is WHAT HAPPENS when YOU'RE BUSY MAKING other PLANS
+To BE or NOT to BE, THAT is THE question
+A PICTURE is WORTH a THOUSAND WORDS
+ALL that GLITTERS is NOT GOLD
+EVERY CLOUD HAS a SILVER LINING
+ACTIONS SPEAK LOUDER THAN WORDS
+The PEN is MIGHTIER THAN the SWORD
+PRACTICE makes PERFECT
+WHEN IN ROME, DO AS the ROMANS DO
+TWO HEADS are BETTER THAN ONE
+THE PROOF of THE PUDDING is IN the EATING
+WHEN the GOING GETS TOUGH, THE TOUGH GET GOING
+You CAN'T JUDGE a BOOK BY its COVER
+DON'T COUNT YOUR CHICKENS before THEY HATCH
+THE BIGGER THEY ARE, THE HARDER THEY FALL
+LIFE is A JOURNEY, NOT A DESTINATION
+A ROLLING STONE GATHERS NO MOSS
+WHAT DOESN'T KILL YOU MAKES YOU STRONGER
+DON'T PUT ALL YOUR EGGS IN ONE BASKET
+The ROAD LESS TRAVELED
+THE BEST THINGS IN LIFE ARE FREE
+A FRIEND IN NEED is A FRIEND INDEED
+EVERY DOG HAS its DAY
+LOOK BEFORE YOU LEAP
+OUT of THE FRYING PAN and INTO THE FIRE
+THERE'S NO SMOKE without FIRE
+ALL'S FAIR in LOVE and WAR
+WHEN THE CAT'S AWAY, THE MICE WILL PLAY
+HONESTY IS THE BEST POLICY
+THE EARLY BIRD GETS THE WORM
+IT'S a PIECE of CAKE
+IT'S RAINING CATS AND DOGS
+LET THE CAT OUT OF THE BAG
+THE BALL IS IN YOUR COURT
+KILL TWO BIRDS WITH ONE STONE
+THE CALM BEFORE THE STORM
+LET SLEEPING DOGS LIE
+PUT ALL YOUR EGGS IN ONE BASKET
+LET THE CHIPS FALL WHERE THEY MAY
+IT'S A WALK IN THE PARK
+WHEN PIGS FLY
+A LEOPARD CAN'T CHANGE ITS SPOTS
+A WATCHED POT NEVER BOILS
+LIKE A FISH OUT OF WATER
+THE POT CALLING THE KETTLE BLACK
+PUT THE CART BEFORE THE HORSE
+A STITCH IN TIME SAVES NINE
+BURN THE MIDNIGHT OIL
+CAN'T MAKE AN OMELETTE WITHOUT BREAKING EGGS
+A WOLF IN SHEEP'S CLOTHING
+THE APPLE OF MY EYE
+A PENNY FOR YOUR THOUGHTS
+CAUGHT BETWEEN A ROCK AND A HARD PLACE
+A PIECE OF THE PIE
+THE WHOLE NINE YARDS
+THE BUCK STOPS HERE
+THE CREAM OF THE CROP
+BITE THE BULLET
+THE DEVIL IS IN THE DETAILS
+HIT THE NAIL ON THE HEAD
+THE ICING ON THE CAKE
+IT'S A DROP IN THE BUCKET
+LIKE FINDING A NEEDLE IN A HAYSTACK
+THE LAST STRAW THAT BROKE THE CAMEL'S BACK
+THROW CAUTION TO THE WIND
+A THORN IN MY SIDE
+THE WRITING ON THE WALL
+IT'S WATER UNDER THE BRIDGE
+THE ELEPHANT IN THE ROOM
+A FLY IN THE OINTMENT
+HIT THE HAY
+A NEEDLE IN A HAYSTACK
+IT'S NOT ROCKET SCIENCE
+A DROP IN THE OCEAN
+WHEN IN DOUBT, DO WITHOUT
+A FISH OUT OF WATER
+BRING HOME THE BACON
+BETWEEN A ROCK AND A HARD PLACE
+THE GRASS IS ALWAYS GREENER ON THE OTHER SIDE
+THE EARLY BIRD CATCHES THE WORM
+LIFE IS WHAT HAPPENS WHEN YOU'RE BUSY MAKING OTHER PLANS
+TO BE OR NOT TO BE, THAT IS THE QUESTION
+A PICTURE IS WORTH A THOUSAND WORDS
+ALL THAT GLITTERS IS NOT GOLD
+EVERY CLOUD HAS A SILVER LINING
+ACTIONS SPEAK LOUDER THAN WORDS
+THE PEN IS MIGHTIER THAN THE SWORD
+PRACTICE MAKES PERFECT
+WHEN IN ROME, DO AS THE ROMANS DO
+TWO HEADS ARE BETTER THAN ONE
+THE PROOF OF THE PUDDING IS IN THE EATING
+WHEN THE GOING GETS TOUGH, THE TOUGH GET GOING
+YOU CAN'T JUDGE A BOOK BY ITS COVER
+DON'T COUNT YOUR CHICKENS BEFORE THEY HATCH
+THE BIGGER THEY ARE, THE HARDER THEY FALL
+LIFE IS A JOURNEY, NOT A DESTINATION
+A ROLLING STONE GATHERS NO MOSS
+WHAT DOESN'T KILL YOU MAKES YOU STRONGER
+DON'T PUT ALL YOUR EGGS IN ONE BASKET
+THE ROAD LESS TRAVELED
+THE BEST THINGS IN LIFE ARE FREE
+A FRIEND IN NEED IS A FRIEND INDEED
+EVERY DOG HAS ITS DAY
+LOOK BEFORE YOU LEAP
+OUT OF THE FRYING PAN AND INTO THE FIRE
+THERE'S NO SMOKE WITHOUT FIRE
+ALL'S FAIR IN LOVE AND WAR
+WHEN THE CAT'S AWAY, THE MICE WILL PLAY
+the quick BROWN cat
+jumped OVER the LAZY dog.
+this is A simple TEST
+coding EXERCISES are FUN
+the sky IS blue
+I love programming IN python
+today IS a BEAUTIFUL day
+a journey OF a THOUSAND miles BEGINS with a SINGLE step
+keep CALM and CODE ON.
+what goes AROUND comes AROUND
+the early BIRD catches THE worm
+life IS what HAPPENS when YOU'RE BUSY making OTHER plans
+to BE or NOT to BE, THAT IS the question
+a picture IS worth A thousand WORDS
+all THAT glitters IS not GOLD
+every CLOUD has A silver LINING
+actions SPEAK louder THAN words
+the PEN IS mightier THAN the sword
+practice MAKES perfect
+when IN rome, DO as THE romans DO
+two HEADS are BETTER than ONE
+the PROOF of THE pudding IS in THE eating
+when THE going GETS tough, THE tough GET going
+you CAN'T judge A book BY its COVER
+don't COUNT your CHICKENS before THEY hatch
+the BIGGER they ARE, the HARDER they FALL
+life IS a JOURNEY, NOT a destination
+a ROLLING stone GATHERS no MOSS
+what DOESN'T kill YOU MAKES you STRONGER
+don't PUT all YOUR eggs IN one BASKET
+the ROAD less TRAVELED
+the BEST things IN life ARE free
+a FRIEND in NEED is A friend INDEED
+every DOG has ITS day
+look BEFORE you LEAP
+out OF the frying PAN and INTO the FIRE
+there's NO smoke WITHOUT fire
+all's FAIR in LOVE and war
+when THE cat'S AWAY, THE mice WILL play
+honesty IS the BEST policy
+the EARLY bird GETS the worm
+it's A piece OF cake
+it's RAINING cats AND dogs
+let THE cat OUT of THE bag
+the BALL is IN your COURT
+kill TWO birds WITH one STONE
+the CALM before THE storm
+let SLEEPING dogs LIE
+put ALL your EGGS in ONE basket
+let THE chips FALL where THEY may
+it's A walk IN the PARK
+when PIGS fly
+a LEOPARD can't CHANGE its SPOTS
+a WATCHED pot NEVER boils
+like A fish OUT of WATER
+the POT calling THE kettle BLACK
+put THE cart BEFORE the HORSE
+a STITCH in TIME saves NINE
+burn THE midnight OIL
+can't MAKE an OMELETTE without BREAKING eggs
+a WOLF in SHEEP'S clothing
+the APPLE of MY eye
+a PENNY for YOUR thoughts
+caught BETWEEN a ROCK and A hard PLACE
+a PIECE of THE pie
+the WHOLE nine YARDS
+the BUCK stops HERE
+the CREAM of THE crop
+bite THE bullet
+the DEVIL is IN the details
+hit THE nail ON the HEAD
+the ICING on THE cake
+it's A drop IN the BUCKET
+like FINDING a NEEDLE in A haystack
+the LAST straw THAT broke THE camel'S BACK
+throw CAUTION to THE wind
+a THORN in MY side
+the WRITING on THE wall
+it's WATER under THE bridge
+the ELEPHANT in THE room
+a FLY in THE ointment
+hit THE hay
+a NEEDLE in A haystack
+it's NOT rocket SCIENCE
+a DROP in THE ocean
+when IN doubt, DO without
+a FISH out OF water
+bring HOME the BACON
+between A rock AND a HARD place
+the GRASS is ALWAYS greener ON the OTHER side
+the EARLY bird CATCHES the WORM
+life IS what HAPPENS when YOU'RE BUSY making OTHER plans
+to BE or NOT to BE, THAT IS the question
+a PICTURE is WORTH a THOUSAND WORDS
+all THAT glitters IS not GOLD
+every CLOUD has A silver LINING
+actions SPEAK louder THAN words
+the PEN IS mightier THAN the sword
+practice MAKES perfect
+when IN rome, DO as THE romans DO
+two HEADS are BETTER than ONE
+the PROOF of THE pudding IS in THE eating
+when THE going GETS tough, THE tough GET going
+you CAN'T judge A book BY its COVER
+don't COUNT your CHICKENS before THEY hatch
+the BIGGER they ARE, the HARDER they FALL
+life IS a JOURNEY, NOT a destination
+a ROLLING stone GATHERS no MOSS
+what DOESN'T kill YOU MAKES you STRONGER
+don't PUT all YOUR eggs IN one BASKET
+the ROAD less TRAVELED
+the BEST things IN life ARE free
+a FRIEND in NEED is A friend INDEED
+every DOG has ITS day
+look BEFORE you LEAP
+out OF the frying PAN and INTO the FIRE
+there's NO smoke WITHOUT fire
+all's FAIR in LOVE and war
+when THE cat'S AWAY, THE mice WILL play
+honesty IS the BEST policy
+the EARLY bird GETS the worm
+it's A piece OF cake
+it's RAINING cats AND dogs
+let THE cat OUT of THE bag
+the BALL is IN your COURT
+kill TWO birds WITH one STONE
+the CALM before THE storm
+let SLEEPING dogs LIE
+put ALL your EGGS in ONE basket
+let THE chips FALL where THEY may
+it's A walk IN the PARK
+when PIGS fly
+a LEOPARD can't CHANGE its SPOTS
+a WATCHED pot NEVER boils
+like A fish OUT of WATER
+the POT calling THE kettle BLACK
+put THE cart BEFORE the HORSE
+a STITCH in TIME saves NINE
+burn THE midnight OIL
+can't MAKE an OMELETTE without BREAKING eggs
+a WOLF in SHEEP'S clothing
+the APPLE of MY eye
+a PENNY for YOUR thoughts
+caught BETWEEN a ROCK and A hard PLACE
+a PIECE of THE pie
+the WHOLE nine YARDS
+the BUCK stops HERE
+the CREAM of THE crop
+bite THE bullet
+the DEVIL is IN the details
+hit THE nail ON the HEAD
+the ICING on THE cake
+it's A drop IN the BUCKET
+like FINDING a NEEDLE in A haystack
+the LAST straw THAT broke THE camel'S BACK
+throw CAUTION to THE wind
+a THORN in MY side
+the WRITING on THE wall
+it's WATER under THE bridge
+the ELEPHANT in THE room
+a FLY in THE ointment
+hit THE hay
+a NEEDLE in A haystack
+it's NOT rocket SCIENCE
+a DROP in THE ocean
+when IN doubt, DO without
+a FISH out OF water
+bring HOME the BACON
+between A rock AND a HARD place
+the GRASS is ALWAYS greener ON the OTHER side
+the EARLY bird CATCHES the WORM
+life IS what HAPPENS when YOU'RE BUSY making OTHER plans
+to BE or NOT to BE, THAT IS the question
+a PICTURE is WORTH a THOUSAND WORDS
+all THAT glitters IS not GOLD
+every CLOUD has A silver LINING
+actions SPEAK louder
+the qUick BROWN caT
+juMped OvER thE lAzY doG.
+thiS is A simPle TeST
+coDing EXerCISES arE fUN
+thE sKY IS bluE
+i lOVE prOgraMMING in P yT hoN
+tODay IS a BEAUTiFul DaY
+a jOURnEy OF a THOUsand MIles BEGInS wiTh a SiNgle sTEP
+keeP CALM anD CODe on.
+whaT GoES arOuND coMEs arOUNd
+thE eARlY BIRD cATches thE WoRM
+liFE IS WHaT hAPPEnS whEn YOu'RE bUSY MAKing oTHeR PlaNS
+to BE Or noT TO BE, thAT is THe qUeSTion
+a PICTurE IS WOrTh a THOUSand WOrDS
+alL THaT GliTTerS IS nOT gOLD
+eVErY CLOUd HAS a sILVER LINing
+aCTionS sPEAK LoUder THan WORds
+thE PEn IS MIGhTIER thAN tHe sWORD
+pRAcTIce MAKES PERfect
+wHEn IN ROmE, dO As thE ROmaNs DO
+TWO HeaDS arE BeTtEr ThAn OnE
+tHE PROof OF thE PUdDiNg Is IN thE eaTIng
+wHEn thE GOIng GeTS TOUgh, thE TOUgh GeT gOINg
+YOu CAnt' JudgE A BOOk By iTs coVEr
+DoN'T COUnt yoUR CHICKEns BEfORe thEY HatCh
+thE BIGgEr tHEy arE, ThE HArDER thEY FAll
+LIFe IS A JOuRNeY, nOT A desTINAtion
+A RoLLinG sTONE GATHErs NO MosS
+WHaT dOesN'T KiLL yoU mAKEs YOu STRonger
+DOnt' Put ALl yoUr EGgs IN ONe bAsket
+ThE RoaD LesS TrAVelED
+thE BESsT THinGS in LIFe ArE FREe
+A FriEND IN nEEd iS A friEnD inDEeD
+eVErY DOG HaS its dAY
+LOOk BefoRE yoU leaP
+ouT OF thE FRyiNG PAN anD INTo thE fIRE
+thErE's No SMOKE WIthOUT fIRE
+ALl's FAIR IN lovE aND WAr
+WHeN thE Cat'S AwAY, thE MiCE WiLL PlaY
+hONeStY iS thE bEST POliCy
+ThE eaRly BIRd GETs thE WOrm
+It's A PiEcE OF CAKe
+IT'S RAIninG CAts AnD DOgs
+LEt thE CaT ouT Of thE BAg
+tHE BALL Is IN YoUr CoURT
+KilL TwO BIRds WiTh ONe STONe
+tHe CALm BeFoRE ThE sToRm
+LeT SLeEpING DoGs LIE
+PUt AlL YoUR EGGS In ONe BAskET
+lET ThE ChiPS FAll WHerE thEY maY
+it'S A WaLk IN thE PaRK
+WHeN PiGS Fly
+A LEopARD CaN't CHanGe Its SPotS
+A WaTCHeD POTE NeVeR BoiLS
+LiKe A FISH OUT OF WaTeR
+ThE POt CAllING ThE KETTLe bLACk
+pUT ThE CArT BeFOrE ThE HORse
+A STItCh IN TiMe SAVeS NINe
+BuRN THe MIdniGHt OiL
+Can'T mAKE An oMElETTe WitHoUt BrEakINg EGgs
+A WOLf In SHEEp's CLoThINg
+ThE APPle Of MY Eye
+A PENny FORe YoUR THOuGHts
+CAugHT BETWeEN A RoCK AnD a HARd PlacE
+A PIEce OF ThE Pie
+tHE WHolE NiNE YArdS
+ThE BUCK STopS HeRe
+ThE CreAM Of THE CrOP
+BIte ThE BUllet
+thE DEvIl IS In ThE dETails
+HiT ThE NAIL ON ThE HEad
+ThE ICINg On ThE CAkE
+IT'S A DROp In ThE BUCkET
+lIke FiNDIng A NEEdlE IN A HaYstAcK
+ThE LaST StrAw ThaT BrOKE ThE CamEl'S BACK
+ThRoW CAuTion To ThE WiND
+A ThORn In MY SIde
+ThE WRIting On ThE WALL
+It's WAtER UnDER ThE BRIdge
+ThE ElePHANT In ThE RoOm
+A FLy In ThE OInTMenT
+HiT ThE Hay
+A NEEdle In A HAYstAcK
+It's NOt RocKet SCienCE
+A DroP In ThE OCEan
+WhEN In DOuBt, DO WiThOut
+A FISH OUT Of WATeR
+BrINg HoMe THE BACoN
+BeTweEN A RocK AND A HARd PlacE
+ThE GrASS Is AlWAyS GrEENeR On ThE OTHeR SiDE
+ThE EARly BIRD CATcheS ThE WORm
+LiFE IS WhAT HApPeNS WhEN YoU'rE BuSy MAkINg OtHeR PlaNS
+To Be Or NOt To Be, ThaT IS ThE QUeSTIon
+A PicTURe Is WOrTh A ThOUsaNd WOrDS
+ALl ThAT GlIttERs Is NoT GOld
+EvErY CloUD HaS A SILvER LiNIng
+AcTiOnS SpEaK LOUDer ThAn WOrdS
+ThE Pen IS MiGHtieR THaN ThE sWOrd
+PrACtiCE MAkes PERfeCt
+WhEn In RoME, DO As ThE RoMans DO
+TwO HeaDs ArE BeTtEr ThAn OnE
+ThE PROof OF ThE PUddING Is In ThE eating
