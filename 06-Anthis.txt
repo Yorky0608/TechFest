@@ -1,2 +1,3 @@
-words = "Hello World"
-print(len(words))
+words = "Hello world"
+words = words.title()
+print(words)
